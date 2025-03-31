@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('./TracktivityBG.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  } 
+  
